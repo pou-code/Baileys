@@ -1,4 +1,11 @@
 # <div align='center'>PouCode</div>
+
+<p align="center">
+
+  <img src="https://files.catbox.moe/rawhvf.jpg" width="180" alt="Pou"/>
+
+</p>
+
 <div align='center'>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
